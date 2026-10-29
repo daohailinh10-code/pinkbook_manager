@@ -1,0 +1,12 @@
+node_modules/
+frontend/dist/
+data/
+backups/
+.env
+*.log
+
+node_modules/
+data/
+backups/
+.env
+frontend/dist/
